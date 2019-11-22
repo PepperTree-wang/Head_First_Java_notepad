@@ -1,0 +1,10 @@
+//开启我的JAVA编程之旅！
+
+
+package CESHI1;
+
+public class HELLOWORD {
+    public static void main(String[] args){
+        System.out.println("Hello word!");
+    }
+}
